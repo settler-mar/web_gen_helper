@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "git+https://git@github.com/gulpjs/gulp.git#4.0",
+    "gulp-autoprefixer": "3.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-fontgen": "^0.2.5",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-ignore": "^2.0.2",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-pug-template-concat": "^1.0.0",
+    "install": "^0.8.1",
+    "npm": "^3.10.8",
+    "rimraf": "2.5.2"
+  },
+  "dependencies": {
+    "gulp": "git+https://git@github.com/gulpjs/gulp.git#4.0",
+    "gulp-stylus": "^2.5.0"
+  }
+}
